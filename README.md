@@ -24,7 +24,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-```
+```html
 cover.html
 <!DOCTYPE html>
 <html lang="en">
@@ -49,7 +49,7 @@ cover.html
     </body>
 </html>
 ```
-```
+```css
 cover.css
 body{
     color:rgb(255, 255, 255);
