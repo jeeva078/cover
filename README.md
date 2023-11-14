@@ -112,9 +112,10 @@ footer{
   ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (6).png>)
+![Alt text](<Screenshot (7).png>)
 
 
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
+cd 
